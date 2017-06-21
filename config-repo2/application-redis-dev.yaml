@@ -1,0 +1,6 @@
+#zookeeper配置
+redis:
+ url: 
+  - localhost:3180
+  - localhost:3181
+  - localhost:3182
